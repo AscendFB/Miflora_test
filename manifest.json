@@ -1,0 +1,13 @@
+  
+{
+  "package": "Miflora_test",
+  "language": "python",
+  "author": "Ascend",
+  "description": "Receive data from miflora sensors",
+  "version": "0.0.1",
+  "min_os_version_major": 3,
+  "url": "https://raw.githubusercontent.com/AscendFB/Miflora_test/master/manifest.json",
+  "zip": "https://github.com/AscendFB/Miflora_test/archive/master.zip",
+  "executable": "python",
+  "args": ["Miflora_test-master/miflora.py"]
+}
