@@ -11,5 +11,5 @@
   "executable": "python",
   "args": "Miflora_test-master/miflora.py",
   "package_version": "0.1",
-  "farmware_manifest_version": "0.2",
+  "farmware_manifest_version": "0.2"
 }
