@@ -9,5 +9,7 @@
   "url": "https://raw.githubusercontent.com/AscendFB/Miflora_test/master/manifest.json",
   "zip": "https://github.com/AscendFB/Miflora_test/archive/master.zip",
   "executable": "python",
-  "args": ["Miflora_test-master/miflora.py"]
+  "args": "Miflora_test-master/miflora.py",
+  "package_version": "0.1",
+  "farmware_manifest_version": "0.2",
 }
